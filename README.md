@@ -8,4 +8,5 @@ The data is analysed by using Pandas via Jupyter notebook.
 ## Tableau Interactive Dashboard
 Dashboard for stock market analysis is created via Tableau.
 
-Below is the link to the interactive Tableau dashobard:https://public.tableau.com/views/StockMarketDashboard_16805302003450/StockMarketDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+Below is the link to the interactive Tableau dashobard:
+https://public.tableau.com/views/StockMarketDashboard_16805302003450/StockMarketDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
